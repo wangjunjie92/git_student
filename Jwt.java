@@ -15,7 +15,7 @@ import java.util.Map;
 @Data
 public class JwtUserInfoDto {
 
-    private String uid;
+    private String id;
 
     private String deviceId;
 
